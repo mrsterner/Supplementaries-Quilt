@@ -1,0 +1,2 @@
+
+accessible method net/minecraft/item/Item getBuiltInRegistryHolder ()Lnet/minecraft/util/Holder$Reference;
